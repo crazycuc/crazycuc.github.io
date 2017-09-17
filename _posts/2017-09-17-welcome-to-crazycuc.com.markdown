@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breaking News! 热烈欢迎周校长莅临本站！"
+title:  "热烈欢迎周校长莅临本站！"
 date:   2017-09-18 08:35:00 +0800
 categories: jekyll update
 ---
