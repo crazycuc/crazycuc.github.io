@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-感谢Jekyll：
-(https://jekyllrb.com)
 
 感谢GitHub:
-(https://github.com)
-
-感谢我自己。
-(https://github.com/crazycuc)
+https://github.com
 
 
-[crazycuc-organization]: https://crazycuc.com
+感谢Jekyll：
+https://jekyllrb.com
+
+
+感谢我自己：
+https://github.com/crazycuc
+https://crazycuc.com
