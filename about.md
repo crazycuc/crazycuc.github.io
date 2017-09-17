@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 感谢Jekyll：
-(https://jekyllrb.com/)
+(https://jekyllrb.com)
 
 感谢GitHub:
-(https://github.com/jekyll)
+(https://github.com)
 
 感谢我自己。
 (https://github.com/crazycuc)
