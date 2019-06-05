@@ -1,7 +1,7 @@
 记录下这些比较突然。
 
 先说刚发生的一件小趣事吧。看完《南方公园》本季第三集瞬间倒下，直接睡着。几分钟前唤醒电脑的画面就如下图了。简直是当头一棒，再睡眼朦胧也一秒变得清醒万分了，一人呵呵傻笑。
-<img src="http://upload-images.jianshu.io/upload_images/8110596-a0c8b8a29eab0e70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"  alt="上海鲜花港 - 郁金香" />
+
 
 
 
